@@ -1,2 +1,4 @@
 # java
-Repositório com meus projetos java
+Repositório com meus projetos Java
+
+Teste de sincronização
